@@ -5,4 +5,4 @@
 
 ## rem 设计稿比例： 
 `postcss.config.js`
-
+ `直接使用px单位 编译自动转换rem`
